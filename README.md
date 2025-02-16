@@ -31,11 +31,11 @@ A fun and interactive number guessing game built using HTML, CSS, and JavaScript
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Muqaddaspreet/guess-my-number.git
+   git clone https://github.com/Muqaddaspreet/Guess-My-Number.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd guess-my-number
+   cd Guess-My-Number
    ```
 3. Open `index.html` in your browser to start playing.
 
