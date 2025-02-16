@@ -39,8 +39,8 @@ A fun and interactive number guessing game built using HTML, CSS, and JavaScript
    ```
 3. Open `index.html` in your browser to start playing.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 📬 Contact
-For any queries or contributions, feel free to reach out via [GitHub Issues](https://github.com/YOUR_GITHUB_USERNAME/guess-my-number/issues).
+For any queries or contributions, feel free to reach out via
+- 👨‍💻 **Muqaddaspreet Singh Bhatia**
+- 📫 Email: *(muqaddaspreetsb@gmail.com)*
+- 🌐 GitHub: [Muqaddaspreet](https://github.com/Muqaddaspreet)
